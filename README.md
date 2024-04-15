@@ -1,0 +1,1 @@
+In the experimental design we want to model prospect theory parameters. In particular, we use simplex theory to create a design suitable to recover prospect theory value parameters (ie risk attitude in gain, risk attitude in loss, loss aversion) and choice temperature (we are excluding the probability distortion function here).
